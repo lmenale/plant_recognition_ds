@@ -1,3 +1,5 @@
+![Built with Devbox](https://www.jetify.com/img/devbox/shield_galaxy.svg)
+
 # apr24_bds_int_plant_recognition: Plant Recognition
 
 This project was made during the Data Scientist course of [Datascientest](https://datascientest.com/en) and used the datasets described below:
@@ -61,4 +63,3 @@ We will use this to mount the GDrive folder.
 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-[![Built with Devbox](https://www.jetify.com/img/devbox/shield_galaxy.svg)](https://www.jetify.com/devbox/docs/contributor-quickstart/)
